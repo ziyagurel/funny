@@ -1,5 +1,7 @@
 ### funny
 
+This project is made for entertaining content demonstration
+
 ### npm start
 
 Runs the app in the development mode.\
