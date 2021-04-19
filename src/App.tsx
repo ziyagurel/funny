@@ -1,9 +1,12 @@
 import React from 'react'
+import {Wrapper} from "./component/styled/index";
 
 const App = () => {
   return (
     <div>
-      <h1>App</h1>
+      <Wrapper>
+        <h1>App</h1>
+      </Wrapper>
     </div>
   )
 }
