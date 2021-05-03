@@ -14,3 +14,7 @@ https://styled-components.com/docs/api#typescript
 ### font 
 
 https://fonts.google.com/specimen/Quicksand?preview.text_type=custom
+
+### Color
+
+https://mycolor.space/gradient?ori=to+right+top&hex=%23AC0404&hex2=%23324803&sub=1
